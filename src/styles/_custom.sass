@@ -66,8 +66,14 @@ figcaption
 .bg-acento-botones-a5
   background-color: $color-acento-botones-a5
 
+.img-65
+  width: 65px
+  margin: 0 auto
 .img-85
   width: 85px
+  margin: 0 auto
+.img-90
+  width: 90px
   margin: 0 auto
 .img-265
   width: 265px
@@ -151,14 +157,14 @@ figcaption
   &__tarjeta
     border-radius: 14px
     height: 97% !important
-    margin: 10px
     filter: drop-shadow(1px 1px 2px #00000010)
     background-color: #F6F6F6
     
   &__icon 
     max-width: 239px
-    margin-bottom: 20px
+    margin-bottom: 10px
     max-height: 110px
+    aspect-ratio: 1/1
   
   &__title-wrapper
     text-align: center
@@ -276,8 +282,8 @@ figcaption
 .mb-6
   margin-bottom: 6rem
 
-// .lista-ul.custom-list
-//   .lista-ul__vineta
-//     top: -2px !important
-//     &:before
-//       content: url('../assets/curso/common/list-disc.svg')
+.lista-ul.custom-list
+  .lista-ul__vineta
+    top: -2px !important
+    &:before
+      content: url('../assets/curso/common/list-disc.svg')
