@@ -22,6 +22,8 @@
             i.fas.fa-quote-left
             h2.mb-0 De esta manera, se habla de la analítica digital, la cual Cibrián (2019) define como: “Disciplina en la que se miden y analizan los datos generados por los usuarios para transformarlos en información relevante, la cual se presentará en informes útiles para que los destinatarios de estos puedan tomar decisiones y mejorar el negocio.
             i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            span.mb-0 (P.19).
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -93,6 +95,79 @@
         p.mb-0 De esta forma, se define que para pasar de los datos obtenidos a la acción se debe tener en cuenta la conexión de los siguientes factores que, al finalizar su ciclo, vuelven a tomar acción en el momento que se necesiten de nuevo. En el siguiente recurso de aprendizaje se describe el proceso para pasar los datos a la acción desde el pensamiento de Cibrián (2019, p. 22); pero antes de ir al recurso, ¿para que utilizarían los datos obtenidos de las redes sociales?
 
 
+    .row.justify-content-center.mb-4.mb-lg-5
+      .col-xl-10
+        ImagenInfograficaB.color-acento-botones.custom-puntos-calientes
+          template(v-slot:imagen)
+            figure
+              img.mb-2(src='@/assets/curso/tema1/9.png', alt='')
+              figcaption #[strong Nota.] SENA, 2026
+
+          div(x="16%" y="52%" tooltip="Action" numero="1")
+            .row.justify-content-center.align-items-center.mt-5
+              .col-xl-10
+                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+                  .col-3.col-lg-2
+                    figure
+                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/10.png", alt="")
+                  .col-sm-9
+                    h5 Acción
+                    p Después de realizar la medición, el análisis y la presentación de resultados, llega el momento de llevar a la acción las decisiones tomadas.
+
+          div(x="30%" y="82%" tooltip="Datos" numero="2")
+            .row.justify-content-center.align-items-center.mt-5
+              .col-xl-10
+                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+                  .col-3.col-lg-2
+                    figure
+                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/11.png", alt="")
+                  .col-sm-9
+                    h5 Datos
+                    p Números arrojados por la información obtenida, puede ser de visitas a la página, alcance, interacción, etc.
+
+          div(x="44%" y="52%" tooltip="Medición" numero="3")
+            .row.justify-content-center.align-items-center.mt-5
+              .col-xl-10
+                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+                  .col-3.col-lg-2
+                    figure
+                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/12.png", alt="")
+                  .col-sm-9
+                    h5 Medición
+                    p Se debe enfocar en los aspectos que se desean conocer para lograr las metas propuestas.
+
+          div(x="58%" y="82%" tooltip="Análisis" numero="4")
+            .row.justify-content-center.align-items-center.mt-5
+              .col-xl-10
+                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+                  .col-3.col-lg-2
+                    figure
+                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/13.png", alt="")
+                  .col-sm-9
+                    h5 Analisis
+                    p Transformación de la información.
+
+          div(x="73%" y="52%" tooltip="Informe relevante" numero="5")
+            .row.justify-content-center.align-items-center.mt-5
+              .col-xl-10
+                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+                  .col-3.col-lg-2
+                    figure
+                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/14.png", alt="")
+                  .col-sm-9
+                    h5 Informe relevante
+                    p Se debe poner en contexto los datos encontrados, para determinar causas del porqué y para qué interactúan los usuarios con una determinada red social o web. Esto permite observar en qué punto se debe poner el foco de atención.
+
+          div(x="87%" y="82%" tooltip="Recomendación" numero="6")
+            .row.justify-content-center.align-items-center.mt-5
+              .col-xl-10
+                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+                  .col-3.col-lg-2
+                    figure
+                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/15.png", alt="")
+                  .col-sm-9
+                    h5 Recomendación
+                    p De acuerdo con los resultados obtenidos se determinar qué aspectos deben cambiar o mejorar en el futuro, lo que se debe saber expresar a la empresa para una toma de decisiones acertada.
     
 
 </template>
