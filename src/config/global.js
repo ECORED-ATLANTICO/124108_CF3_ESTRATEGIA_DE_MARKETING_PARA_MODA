@@ -199,55 +199,55 @@ export default {
   referencias: [
     {
       referencia:
-        'Cibrián, B., I. (2019). Marketing digital. Mide, analiza y mejora. ESIC.',
+        'Cibrián, I. B. (2019). <em>Marketing digital. Mide, analiza y mejora.</em> ESIC.',
     },
     {
       referencia:
-        'DANE. (s.f.). Guía para diseño, construcción e interpretación de indicadores. DANE.',
+        'DANE. (s.f.). <em>Guía para diseño, construcción e interpretación de indicadores.</em> DANE.',
     },
     {
       referencia:
-        'Galiana, P. (2018). Qué es la analítica web, para qué sirve y principales herramientas. ',
+        'Galiana, P. (2018). <em>Qué es la analítica web, para qué sirve y principales herramientas.</em>',
       link:
         'https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad/',
     },
     {
       referencia:
-        'Gómez, S., Instituto de Marketing Ágil. (22 de noviembre de 2017). Qué es la analítica web y para qué sirve. [Video]. YouTube ',
+        'Gómez, S. e Instituto de Marketing Ágil. (22 de noviembre de 2017). <em>Qué es la analítica web y para qué sirve.</em> [Video]. YouTube.',
       link:
         'https://www.youtube.com/watch?v=W1q_SyJPfdg&ab_channel=InstitutodeMarketingAgil',
     },
     {
       referencia:
-        'GraciAds. (2021). El comportamiento del consumidor en las redes sociales. ',
+        'GraciAds. (2021). <em>El comportamiento del consumidor en las redes sociales.</em>',
       link:
         'https://graciads.com/comportamiento-del-consumidor-en-redes-sociales/#:~:text=Por%20lo%20general%2C%20los%20estudios,de%20marca%20como%20un%20bot',
     },
     {
       referencia:
-        'IEBS Business School. (11 de septiembre de 2018). Cómo definir e interpretar métricas y KPI en analítica web de IEBS. [Webinar]. ',
+        'IEBS Business School. (11 de septiembre de 2018). <em>Cómo definir e interpretar métricas y KPI en analítica web de IEBS.</em> [Webinar].',
       link: 'https://www.youtube.com/watch?v=-_8tNwzyCi8',
     },
     {
       referencia:
-        'Maciá, F., y Santoja, M. (2017). Marketing en redes sociales. Anaya. ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=13656 ',
+        'Maciá, F. y Santoja, M. (2017). <em>Marketing en redes sociales.</em> Anaya.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=13656',
     },
     {
       referencia:
-        'Mejía, J. (2020). Indicadores de redes sociales: principales KPI y métricas de social media. ',
+        'Mejía, J. (2020). <em>Indicadores de redes sociales: principales KPI y métricas de social media.</em>',
       link:
         'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
     },
     {
       referencia:
-        'Núñez, V. (2013). Cómo hacer un informe de resultados en redes sociales. ',
+        'Núñez, V. (2013). <em>Cómo hacer un informe de resultados en redes sociales.</em>',
       link:
         'https://vilmanunez.com/como-hacer-un-informe-de-redes-sociales-incluye-plantillas/',
     },
     {
       referencia:
-        'Redes Sociales. (2021). Redes sociales: ¿qué son las redes sociales? ',
+        'Redes Sociales. (2021). <em>Redes sociales: ¿qué son las redes sociales?</em>',
       link: 'https://www.rdstation.com/es/redes-sociales/',
     },
   ],

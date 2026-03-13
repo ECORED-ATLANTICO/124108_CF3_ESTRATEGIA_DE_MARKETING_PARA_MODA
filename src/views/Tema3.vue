@@ -28,13 +28,13 @@
           .tarjeta-numerada__numero
             .h2 1
           p.mb-0.text-bold.w-75 Medir solo lo que se necesite para alcanzar los objetivos de negocio.
-          img.d-none.d-md-block.img-113.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema3/2.svg", alt="")
+          img.d-none.d-md-block.img-113.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema3/2.png", alt="")
       .col-md-10.col-lg-6.col-xl-5
         .tarjeta-numerada.color-secundario.p-2.ps-5.h-100.bg-azul-claro.position-relative
           .tarjeta-numerada__numero
             .h2 2
           p.mb-0.text-bold.w-75 Analizar los datos sin perder el foco del porqué se hace.
-          img.d-none.d-md-block.img-113.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema3/3.svg", alt="")
+          img.d-none.d-md-block.img-113.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema3/3.png", alt="")
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
@@ -46,11 +46,11 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Titulo de la figura
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.svg", alt="pendiente por accesibilidad")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.svg", alt="pendiente por accesibilidad")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.png", alt="pendiente por accesibilidad")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.png", alt="pendiente por accesibilidad")
         figcaption #[strong Nota.] SENA, 2026
 
-    .bg-azul-claro.p-2
+    .bg-azul-claro.p-2.rounded-3
       .row.justify-content-center.align-items-center
         .d-none.d-lg-block.col-lg-2
           figure
@@ -61,7 +61,7 @@
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.1 ¿Qué se debe medir?
+      h2 3.1 ¿Cómo analizar?
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -78,7 +78,7 @@
       .col-xl-10
         p.mb-0.text-center.text-bold Ahora, se debe revisar con atención la siguiente información que agrega contenido relevante a este proceso de aprendizaje.
 
-    .row.justify-content-center
+    .row.justify-content-center.custom-hover
       .col-md-10.col-lg-8.col-xl-6.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
@@ -197,7 +197,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/18.png", alt="")
 
-    .bg-primario-p10.p-2.mb-4.mb-lg-5
+    .bg-primario-p10.p-2.mb-4.mb-lg-5.rounded-3
       .row.justify-content-center.align-items-center
         .d-none.d-lg-block.col-lg-2
           figure
@@ -211,11 +211,11 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/20.png", alt="")
       .col-xl-8.custom-tabs.custom-tabs--ancho
         TabsA.color-acento-botones.mb-4.mb-lg-0
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Contenido")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Contenido")
             p.mb-0 Se ha comprobado que los consumidores responden de mejor manera ante contenidos publicados en redes sociales que se enfoquen en la calidad y no en la cantidad, lo que genera un importante punto de partida para generar fidelización de marca.
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Dispositivos")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Dispositivos")
             p.mb-0 Es importante pensar a través de qué medios se conecta el consumidor de una marca o empresa y, con ello, se hace necesario adaptar los contenidos publicados para que sean llamativos por el medio usado, ya sea el teléfono celular, computador o #[i tablet]. 
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Actitud")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Actitud")
             p.mb-0 Conocer la actitud del consumidor en las redes sociales permite ver su postura frente a los contenidos publicados, con lo que es importante que la marca se sienta cercana para generar una mayor conexión con la comunidad que se genera alrededor de esta. Por otro lado, el mayor interés del consumidor es compartir información y esto también es algo a lo que se debe poner mucha atención.
 
 

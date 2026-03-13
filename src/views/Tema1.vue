@@ -27,7 +27,7 @@
 
     .row.justify-content-center.z-2
       .col-xl-10
-        .bg-primario-p10.p-2.mb-4.mb-lg-5
+        .bg-primario-p10.p-2.mb-4.mb-lg-5.rounded-3
           .row.justify-content-center.align-items-center
             .d-none.d-lg-block.col-lg-2
               figure
@@ -85,7 +85,7 @@
         div.banner-text.banner-text--azul
           p.mb-0 Al realizar la medición de las acciones realizadas por los usuarios que interactúan con determinada red social o sitio web, la información obtenida es el tesoro mejor guardado por cada marca, puesto que este permite realizar estudios de análisis que permitan la toma de decisiones basada en datos y no en supuestos.
     
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-6.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/8.png", alt="")
@@ -97,77 +97,136 @@
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
-        ImagenInfograficaB.color-acento-botones.custom-puntos-calientes
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img.mb-2(src='@/assets/curso/tema1/9.png', alt='')
-              figcaption #[strong Nota.] SENA, 2026
+              img(src='@/assets/curso/tema1/9.png', alt='')
 
-          div(x="16%" y="52%" tooltip="Action" numero="1")
-            .row.justify-content-center.align-items-center.mt-5
-              .col-xl-10
-                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
-                  .col-3.col-lg-2
-                    figure
-                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/10.png", alt="")
-                  .col-sm-9
-                    h5 Acción
-                    p Después de realizar la medición, el análisis y la presentación de resultados, llega el momento de llevar a la acción las decisiones tomadas.
+          .tarjeta.bg-acento-botones-a20.p-3(x="16%" y="56%" numero="1")
+            .row.justify-content-center
+              .col-3.col-lg-2
+                figure
+                  img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/10.png", alt="")
+              .col-sm-9
+                h5 Acción
+                p Después de realizar la medición, el análisis y la presentación de resultados, llega el momento de llevar a la acción las decisiones tomadas.
 
-          div(x="30%" y="82%" tooltip="Datos" numero="2")
-            .row.justify-content-center.align-items-center.mt-5
-              .col-xl-10
-                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
-                  .col-3.col-lg-2
-                    figure
-                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/11.png", alt="")
-                  .col-sm-9
-                    h5 Datos
-                    p Números arrojados por la información obtenida, puede ser de visitas a la página, alcance, interacción, etc.
+          .tarjeta.bg-acento-botones-a20.p-3(x="30%" y="90%" numero="2")
+            .row.justify-content-center
+              .col-3.col-lg-2
+                figure
+                  img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/11.png", alt="")
+              .col-sm-9
+                h5 Datos
+                p Números arrojados por la información obtenida, puede ser de visitas a la página, alcance, interacción, etc.
 
-          div(x="44%" y="52%" tooltip="Medición" numero="3")
-            .row.justify-content-center.align-items-center.mt-5
-              .col-xl-10
-                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
-                  .col-3.col-lg-2
-                    figure
-                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/12.png", alt="")
-                  .col-sm-9
-                    h5 Medición
-                    p Se debe enfocar en los aspectos que se desean conocer para lograr las metas propuestas.
+          .tarjeta.bg-acento-botones-a20.p-3(x="44%" y="56%" numero="3")
+            .row.justify-content-center
+              .col-3.col-lg-2
+                figure
+                  img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/12.png", alt="")
+              .col-sm-9
+                h5 Medición
+                p Se debe enfocar en los aspectos que se desean conocer para lograr las metas propuestas.
 
-          div(x="58%" y="82%" tooltip="Análisis" numero="4")
-            .row.justify-content-center.align-items-center.mt-5
-              .col-xl-10
-                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
-                  .col-3.col-lg-2
-                    figure
-                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/13.png", alt="")
-                  .col-sm-9
-                    h5 Analisis
-                    p Transformación de la información.
+          .tarjeta.bg-acento-botones-a20.p-3(x="58%" y="90%" numero="4")
+            .row.justify-content-center
+              .col-3.col-lg-2
+                figure
+                  img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/13.png", alt="")
+              .col-sm-9
+                h5 Análisis
+                p Transformación de la información.
 
-          div(x="73%" y="52%" tooltip="Informe relevante" numero="5")
-            .row.justify-content-center.align-items-center.mt-5
-              .col-xl-10
-                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
-                  .col-3.col-lg-2
-                    figure
-                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/14.png", alt="")
-                  .col-sm-9
-                    h5 Informe relevante
-                    p Se debe poner en contexto los datos encontrados, para determinar causas del porqué y para qué interactúan los usuarios con una determinada red social o web. Esto permite observar en qué punto se debe poner el foco de atención.
+          .tarjeta.bg-acento-botones-a20.p-3(x="73%" y="56%" numero="5")
+            .row.justify-content-center
+              .col-3.col-lg-2
+                figure
+                  img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/14.png", alt="")
+              .col-sm-9
+                h5 Informe relevante
+                p Se debe poner en contexto los datos encontrados, para determinar causas del porqué y para qué interactúan los usuarios con una determinada red social o web. Esto permite observar en qué punto se debe poner el foco de atención.
 
-          div(x="87%" y="82%" tooltip="Recomendación" numero="6")
-            .row.justify-content-center.align-items-center.mt-5
-              .col-xl-10
-                .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
-                  .col-3.col-lg-2
-                    figure
-                      img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/15.png", alt="")
-                  .col-sm-9
-                    h5 Recomendación
-                    p De acuerdo con los resultados obtenidos se determinar qué aspectos deben cambiar o mejorar en el futuro, lo que se debe saber expresar a la empresa para una toma de decisiones acertada.
+          .tarjeta.bg-acento-botones-a20.p-3(x="87%" y="90%" numero="6")
+            .row.justify-content-center
+              .col-3.col-lg-2
+                figure
+                  img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/15.png", alt="")
+              .col-sm-9
+                h5 Recomendación
+                p De acuerdo con los resultados obtenidos se determinar qué aspectos deben cambiar o mejorar en el futuro, lo que se debe saber expresar a la empresa para una toma de decisiones acertada.
+
+        //- ImagenInfograficaB.color-acento-botones.custom-puntos-calientes
+        //-   template(v-slot:imagen)
+        //-     figure
+        //-       img.mb-2(src='@/assets/curso/tema1/9.png', alt='')
+        //-       figcaption #[strong Nota.] SENA, 2026
+
+        //-   div(x="16%" y="52%" tooltip="Action" numero="1")
+        //-     .row.justify-content-center.align-items-center.mt-5
+        //-       .col-xl-10
+        //-         .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+        //-           .col-3.col-lg-2
+        //-             figure
+        //-               img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/10.png", alt="")
+        //-           .col-sm-9
+        //-             h5 Acción
+        //-             p Después de realizar la medición, el análisis y la presentación de resultados, llega el momento de llevar a la acción las decisiones tomadas.
+
+        //-   div(x="30%" y="82%" tooltip="Datos" numero="2")
+        //-     .row.justify-content-center.align-items-center.mt-5
+        //-       .col-xl-10
+        //-         .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+        //-           .col-3.col-lg-2
+        //-             figure
+        //-               img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/11.png", alt="")
+        //-           .col-sm-9
+        //-             h5 Datos
+        //-             p Números arrojados por la información obtenida, puede ser de visitas a la página, alcance, interacción, etc.
+
+        //-   div(x="44%" y="52%" tooltip="Medición" numero="3")
+        //-     .row.justify-content-center.align-items-center.mt-5
+        //-       .col-xl-10
+        //-         .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+        //-           .col-3.col-lg-2
+        //-             figure
+        //-               img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/12.png", alt="")
+        //-           .col-sm-9
+        //-             h5 Medición
+        //-             p Se debe enfocar en los aspectos que se desean conocer para lograr las metas propuestas.
+
+        //-   div(x="58%" y="82%" tooltip="Análisis" numero="4")
+        //-     .row.justify-content-center.align-items-center.mt-5
+        //-       .col-xl-10
+        //-         .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+        //-           .col-3.col-lg-2
+        //-             figure
+        //-               img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/13.png", alt="")
+        //-           .col-sm-9
+        //-             h5 Analisis
+        //-             p Transformación de la información.
+
+        //-   div(x="73%" y="52%" tooltip="Informe relevante" numero="5")
+        //-     .row.justify-content-center.align-items-center.mt-5
+        //-       .col-xl-10
+        //-         .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+        //-           .col-3.col-lg-2
+        //-             figure
+        //-               img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/14.png", alt="")
+        //-           .col-sm-9
+        //-             h5 Informe relevante
+        //-             p Se debe poner en contexto los datos encontrados, para determinar causas del porqué y para qué interactúan los usuarios con una determinada red social o web. Esto permite observar en qué punto se debe poner el foco de atención.
+
+        //-   div(x="87%" y="82%" tooltip="Recomendación" numero="6")
+        //-     .row.justify-content-center.align-items-center.mt-5
+        //-       .col-xl-10
+        //-         .row.justify-content-center.p-4.rounded-3.bg-acento-botones-a20
+        //-           .col-3.col-lg-2
+        //-             figure
+        //-               img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/15.png", alt="")
+        //-           .col-sm-9
+        //-             h5 Recomendación
+        //-             p De acuerdo con los resultados obtenidos se determinar qué aspectos deben cambiar o mejorar en el futuro, lo que se debe saber expresar a la empresa para una toma de decisiones acertada.
     
 
 </template>

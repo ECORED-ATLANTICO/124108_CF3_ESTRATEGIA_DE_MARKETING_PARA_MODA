@@ -13,8 +13,8 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/1.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-0 A partir del plan de marketing digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial.
-        .p-4.bg-acento-contenido-a5.mb-3.rounded-3
+        p.mb-3 A partir del plan de marketing digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial.
+        .p-3.bg-acento-botones-a20.mb-3.rounded-3
           p.mb-0 Al tener claro lo anterior, para llevar a cabo el proceso de medir se debe determinar qué medir y esto se define según los objetivos propuestos y los criterios establecidos para ello.
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
@@ -64,7 +64,7 @@
         p.mb-0 Tal como se ha comentado una y otra vez, la medición depende de los objetivos establecidos, y para entender cómo se definen dichos objetivos, se hace necesario el uso del método SMART (Specific, Measurable, Achievable, Relevant y Time-bound) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2.factores-slider
-      .col-md-4.col-lg-3.col-xl-2.mb-3.mb-xl-0
+      .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
             .col-8
@@ -72,7 +72,7 @@
           .factores-slider__title-wrapper  
             h5.factores-slider__title Específico
           p.text-center Se define como la meta concreta.
-      .col-md-4.col-lg-3.col-xl-2.mb-3.mb-xl-0
+      .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
             .col-8
@@ -80,7 +80,7 @@
           .factores-slider__title-wrapper  
             h5.factores-slider__title Medible
           p.text-center permite cuantificar en cifras.
-      .col-md-4.col-lg-3.col-xl-2.mb-3.mb-xl-0
+      .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
             .col-8
@@ -88,7 +88,7 @@
           .factores-slider__title-wrapper  
             h5.factores-slider__title Alcanzable
           p.text-center tiene coherencia y es posible que se lleve a cabo en la realidad.
-      .col-md-4.col-lg-3.col-xl-2.mb-3.mb-xl-0
+      .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
             .col-8
@@ -96,7 +96,7 @@
           .factores-slider__title-wrapper  
             h5.factores-slider__title Relevante
           p.text-center mantiene alineación con la estrategia desarrollada por la empresa y tienen una razón de ser determinada.
-      .col-md-4.col-lg-3.col-xl-2.mb-3.mb-xl-0
+      .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
             .col-8
@@ -132,7 +132,7 @@
 
     .row.justify-content-center.z-2
       .col-xl-10
-        .bg-azul-claro.p-2
+        .bg-azul-claro.p-2.rounded-3
           .row.justify-content-center.align-items-center
             .d-none.d-lg-block.col-lg-2
               figure
@@ -152,7 +152,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/15.png", alt="")
       .col-md-10.col-lg-8
         p.mb-3 La definición de los objetivos no lograría nada sin los Indicadores Clave de Desempeño o KPI (#[em Key Performance Indicator]) con lo que cada objetivo y estrategia lleva consigo un KPI diferente. Para ello, es indispensable conocer los tipos de KPI existentes para determinar cuáles servirán en el proceso, entendiendo que un KPI se determina como una meta a alcanzar para identificar si las estrategias realizadas funcionan o no.
-        .p-3.bg-acento-contenido-a5
+        .p-3.bg-acento-contenido-a5.ro
           .row.justify-content-center.align-items-center
             .d-none.d-xl-block.col-xl-1
               figure
@@ -170,7 +170,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/17.png", alt="")
       .col-lg-7
-        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-claro")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-medio")
           .row(titulo="KPI de gestión y comunidad").justify-content-center.align-items-center
             .col-12
               p Se refieren a cantidad de publicaciones y seguidores en las redes sociales.
@@ -238,16 +238,16 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-xl-8.custom-tabs.custom-tabs--ancho
         TabsA.color-acento-botones.mb-4.mb-lg-0
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Crear un plan de medición: ¿qué medir?")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Crear un plan de medición: ¿qué medir?")
             h5 Crear un plan de medición: ¿qué medir?
             p.mb-0 En esta primera fase se deben establecer aquellos aspectos que se medirán según el plan de marketing digital establecido. En este punto hay que tener en cuenta los objetivos de la marca o empresa, los KPI a utilizar, las estrategias y herramientas que se van a llevar a cabo para conseguir dichos objetivos, la segmentación del público, entre otros.
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Establecer un plan de implementación: ¿cómo medirlo?")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Establecer un plan de implementación: ¿cómo medirlo?")
             h5 Establecer un plan de implementación: ¿cómo medirlo?
             p.mb-0 En esta fase se determinan los aspectos técnicos a usar para realizar la medición deseada, teniendo en cuenta qué se quiere medir, si es una red social, un sitio web o una aplicación, y la herramienta de la medición.
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Implementar un plan: ¿qué aspectos técnicos hay que tener en cuenta?")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Implementar un plan: ¿qué aspectos técnicos hay que tener en cuenta?")
             h5 Implementar un plan: ¿qué aspectos técnicos hay que tener en cuenta?
             p.mb-0 Después de establecer el plan de medición e implementación se lleva a cabo la medición, observando atentamente los resultados que esta arroje. 
-          .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Mantener actualizado el plan: ¿qué cambios hay que incluir?")
+          .tarjeta.p-4.h-100.bg-azul-medio(titulo="Mantener actualizado el plan: ¿qué cambios hay que incluir?")
             h5 Mantener actualizado el plan: ¿qué cambios hay que incluir?
             p.mb-0 Al llegar a esta fase se entiende que este es un proceso constante en el que se debe actualizar todo el tiempo, debido a los cambios que surgen día a día en el mundo digital.
 

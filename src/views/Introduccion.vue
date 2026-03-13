@@ -35,7 +35,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/introduccion/3.png", alt="")
 
-    .bg-primario-p10.p-2.mb-4.mb-lg-5
+    .bg-primario-p10.p-2.mb-4.mb-lg-5.rounded-3
       .row.justify-content-center.align-items-center
         .d-none.d-lg-block.col-lg-2
           figure
@@ -48,7 +48,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/introduccion/6.png", alt="")
       .col-lg-7
-        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-claro")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-medio")
           .row(titulo="¿Cómo iniciar este proceso de aprendizaje?").justify-content-center.align-items-center
             .col-12
               p.mb-0 Para comenzar, es importante que usted comprenda que el objeto de aprendizaje está relacionado con: analítica de datos para redes sociales, contenidos, medición y análisis, análisis de información y estructuración e interpretación de indicadores para la preparación de reportes. ¿Cómo aportan ellos en su formación? Adelante con la experiencia para encontrar una respuesta.
