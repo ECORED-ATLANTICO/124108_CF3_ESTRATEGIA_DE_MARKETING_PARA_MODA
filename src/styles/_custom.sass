@@ -65,6 +65,10 @@ figcaption
   background-color: $color-acento-contenido-a5
 .bg-acento-botones-a5
   background-color: $color-acento-botones-a5
+.bg-acento-botones-a10
+  background-color: $color-acento-botones-a10
+.bg-acento-botones-a20
+  background-color: #FFEDB9
 
 .img-65
   width: 65px
@@ -74,6 +78,9 @@ figcaption
   margin: 0 auto
 .img-90
   width: 90px
+  margin: 0 auto
+.img-113
+  width: 113px
   margin: 0 auto
 .img-265
   width: 265px
@@ -287,3 +294,28 @@ figcaption
     top: -2px !important
     &:before
       content: url('../assets/curso/common/list-disc.svg')
+
+.custom-tarjeta-numerada
+  .tarjeta-numerada
+    border-width: 4px
+    div
+      background-color: #E1E7FB !important
+    
+  .tarjeta-numerada__numero
+    border: solid 4px white !important
+    transform: translate(-50%, -50%)
+    left: 0
+    top: 0
+    
+  &__mod
+    .tarjeta-numerada__numero
+      border: solid 4px white !important
+      transform: translate(-50%, -50%)
+      left: 0
+      top: 50%
+      width: 84px
+      height: 84px
+    .icon-tarjeta-numerada
+      right: 0
+      top: 50%
+      transform: translate(-10%, -50%)
