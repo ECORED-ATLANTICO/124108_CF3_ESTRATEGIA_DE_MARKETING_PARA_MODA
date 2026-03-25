@@ -85,8 +85,8 @@
             figure
               img(src="@/assets/curso/tema3/8.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
-            h4.mb-3.text-center Reportes automáticos
-            p.mb-0 Informes programados (diarios, semanales o mensuales) que consolidan los indicadores y permiten hacer seguimiento a las metas y tendencias.
+            h4.mb-3.text-center Segmentación
+            p.mb-0 División por sectores o grupos de los datos encontrados según sus características, para encontrar información útil para la marca o empresa.
 
       .col-md-10.col-lg-8.col-xl-6
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
@@ -94,7 +94,7 @@
             figure
               img(src="@/assets/curso/tema3/9.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
-            h4.mb-3.text-center Panel de control
+            h4.mb-3.text-center Representación de los datos
             p.mb-0 Comparación de evolución de los datos generados con respecto a una línea de tiempo, es decir, ver cómo se comportan los datos encontrados a lo largo del tiempo, con el fin de darlos a conocer en gráficos que permitan identificar cambios significativos para la toma de decisiones. Esta representación de datos permite observar desde un plano general, para ubicar hechos específicos del porqué suceden y en qué están afectando la consecución de los objetivos propuestos.
 
     Separador
@@ -114,10 +114,10 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/11.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-0 Aunque en la cotidianidad las comparaciones nunca son buenas, en el marketing digital pueden ser muy provechosas para poner los pies en la tierra y dirigirse por el camino correcto, Con respecto a esto, según Maciá y Santoja (2017) se debe hacer uso de la matriz DOFA (debilidades, oportunidades, fortalezas y amenazas) para observar estos aspectos con relación a otra marca, igualmente se deben plantear interrogantes en torno a las redes sociales utilizadas, los contenidos, la periodicidad de publicación, las interacciones de los usuarios, cantidad de seguidores, tono que usan para comunicarse, publicaciones populares, es decir, toda la información que se puede obtener al revisar la red social externamente.
+        p.mb-0 Aunque en la cotidianidad las comparaciones nunca son buenas, en el #[em marketing] digital pueden ser muy provechosas para poner los pies en la tierra y dirigirse por el camino correcto, Con respecto a esto, según Maciá y Santoja (2017) se debe hacer uso de la matriz DOFA (debilidades, oportunidades, fortalezas y amenazas) para observar estos aspectos con relación a otra marca, igualmente se deben plantear interrogantes en torno a las redes sociales utilizadas, los contenidos, la periodicidad de publicación, las interacciones de los usuarios, cantidad de seguidores, tono que usan para comunicarse, publicaciones populares, es decir, toda la información que se puede obtener al revisar la red social externamente.
 
     .p-3.bg-acento-botones-a20.rounded-3.z-2.mb-4.mb-lg-5
-      p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de marketing aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.
+      p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de #[em marketing] aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.
     
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -132,7 +132,7 @@
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 Para este proceso, se pueden utilizar diferentes alternativas, pero existen tres que pueden ser de gran ayuda. Ellos son: cuestionarios, listening y testing.
+            h2.mb-0 Para este proceso, se pueden utilizar diferentes alternativas, pero existen tres que pueden ser de gran ayuda. Ellos son: cuestionarios, #[em listening] y #[em testing].
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             span.mb-0 Cibrián (2019)
@@ -162,7 +162,7 @@
             figure
               img(src="@/assets/curso/tema3/15.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
-            h4.mb-3.text-center Informe
+            h4.mb-3.text-center #[em Testing]
             p.mb-0 Esto permite identificar distintas versiones de lo que se está testeando para probar su rendimiento y se debe tener muy claro el propósito con que se lleva a cabo el testeo. Para ello se debe elegir una métrica que esté enfocada al objetivo a alcanzar.
 
     Separador

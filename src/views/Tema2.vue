@@ -13,7 +13,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/1.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-3 A partir del plan de marketing digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial.
+        p.mb-3 A partir del plan de #[em marketing] digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial.
         .p-3.bg-acento-botones-a20.mb-3.rounded-3
           p.mb-0 Al tener claro lo anterior, para llevar a cabo el proceso de medir se debe determinar qué medir y esto se define según los objetivos propuestos y los criterios establecidos para ello.
 
@@ -61,7 +61,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/5.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Tal como se ha comentado una y otra vez, la medición depende de los objetivos establecidos, y para entender cómo se definen dichos objetivos, se hace necesario el uso del método SMART (Specific, Measurable, Achievable, Relevant y Time-bound) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
+        p.mb-0 Tal como se ha indicado repetidamente, la medición depende de los objetivos establecidos. Para definirlos correctamente, se recomienda usar el método SMART (#[em Specific, Measurable, Achievable, Relevant y Time-bound]) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2.factores-slider
       .col-md-4.col-xl-2.mb-3.mb-xl-0
@@ -79,7 +79,7 @@
               img.factores-slider__icon.img-90(src='@/assets/curso/tema2/7.png' alt='Numero 2')
           .factores-slider__title-wrapper  
             h5.factores-slider__title Medible
-          p.text-center permite cuantificar en cifras.
+          p.text-center Permite cuantificar en cifras.
       .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
@@ -87,7 +87,7 @@
               img.factores-slider__icon.img-90(src='@/assets/curso/tema2/8.png' alt='Numero 3')
           .factores-slider__title-wrapper  
             h5.factores-slider__title Alcanzable
-          p.text-center tiene coherencia y es posible que se lleve a cabo en la realidad.
+          p.text-center Tiene coherencia y es posible que se lleve a cabo en la realidad.
       .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
@@ -95,7 +95,7 @@
               img.factores-slider__icon.img-90(src='@/assets/curso/tema2/9.png' alt='Numero 4')
           .factores-slider__title-wrapper  
             h5.factores-slider__title Relevante
-          p.text-center mantiene alineación con la estrategia desarrollada por la empresa y tienen una razón de ser determinada.
+          p.text-center Mantiene alineación con la estrategia desarrollada por la empresa y tienen una razón de ser determinada.
       .col-md-4.col-xl-2.mb-3.mb-xl-0
         .tarjeta.tarjeta--blanca.p-3.factores-slider__tarjeta
           .row.justify-content-center.mb-3
@@ -103,7 +103,7 @@
               img.factores-slider__icon.img-90(src='@/assets/curso/tema2/10.png' alt='Numero 5')
           .factores-slider__title-wrapper  
             h5.factores-slider__title Acotado en el tiempo
-          p.text-center se desarrolla dentro del plazo de tiempo establecido. 
+          p.text-center Se desarrolla dentro del plazo de tiempo establecido. 
 
     img(data-aos="fade-up")(src="@/assets/curso/tema2/11.png", alt="Imagen decorativa")
 
@@ -163,7 +163,7 @@
 
     h3.title-decorado.z-2 Tipos de KPI
 
-    p.mb-4 Según el consultor en marketing digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura.
+    p.mb-4 Según el consultor en #[em marketing] digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura.
 
     .row.justify-content-center.align-items-center.z-2
       .col-10.col-sm-6.col-lg-5
@@ -210,19 +210,19 @@
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CTR (Click Through Rate)]: se define como la tasa de clics realizados en enlaces publicados en la red social.
+                  span #[strong CTR (#[em Click Through Rate])]: se define como la tasa de clics realizados en enlaces publicados en la red social.
                 li.d-flex
                   i.lista-ul__vineta
                   span #[strong Porcentaje de conversión]: es el porcentaje de visitantes en un sitio web que cumplen con el objetivo y permite identificar cuántos son direccionados desde una red social.
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CPL (Cost per Lead)]: se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media marketing.
+                  span #[strong CPL (#[em Cost per Lead])]: se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media #[em marketing].
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CPA (Cost Per Acquisition)]: se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media marketing.
+                  span #[strong CPA (#[em Cost Per Acquisition])]: se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media #[em marketing].
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong ROI (Return Of Investment)]: se mide por el retorno de la inversión, lo cual determina si una campaña en redes sociales está siendo efectiva.
+                  span #[strong ROI (#[em Return Of Investment])]: se mide por el retorno de la inversión, lo cual determina si una campaña en redes sociales está siendo efectiva.
 
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -240,7 +240,7 @@
         TabsA.color-acento-botones.mb-4.mb-lg-0
           .tarjeta.p-4.h-100.bg-azul-medio(titulo="Crear un plan de medición: ¿qué medir?")
             h5 Crear un plan de medición: ¿qué medir?
-            p.mb-0 En esta primera fase se deben establecer aquellos aspectos que se medirán según el plan de marketing digital establecido. En este punto hay que tener en cuenta los objetivos de la marca o empresa, los KPI a utilizar, las estrategias y herramientas que se van a llevar a cabo para conseguir dichos objetivos, la segmentación del público, entre otros.
+            p.mb-0 En esta primera fase se deben establecer aquellos aspectos que se medirán según el plan de #[em marketing] digital establecido. En este punto hay que tener en cuenta los objetivos de la marca o empresa, los KPI a utilizar, las estrategias y herramientas que se van a llevar a cabo para conseguir dichos objetivos, la segmentación del público, entre otros.
           .tarjeta.p-4.h-100.bg-azul-medio(titulo="Establecer un plan de implementación: ¿cómo medirlo?")
             h5 Establecer un plan de implementación: ¿cómo medirlo?
             p.mb-0 En esta fase se determinan los aspectos técnicos a usar para realizar la medición deseada, teniendo en cuenta qué se quiere medir, si es una red social, un sitio web o una aplicación, y la herramienta de la medición.

@@ -28,7 +28,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/2.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-5.mb-sm-0 Un informe de resultados basa sus características de acuerdo con la persona que será presentada como también definirá los KPI, objetivos, formatos, etc. Es importante saber a quién se dirige para exponer de la manera más clara la información encontrada y permitir una toma de decisiones certera. Según Cibrián (2019), existen cuatro requisitos para un buen reporte de resultados:
+        p.mb-5.mb-md-0 Un informe de resultados basa sus características de acuerdo con la persona que será presentada como también definirá los KPI, objetivos, formatos, etc. Es importante saber a quién se dirige para exponer de la manera más clara la información encontrada y permitir una toma de decisiones certera. Según Cibrián (2019), existen cuatro requisitos para un buen reporte de resultados:
         .row.justify-content-center.align-items-center.custom-tarjeta-numerada
           .col-3.d-none.d-xl-block
             figure

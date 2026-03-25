@@ -13,17 +13,17 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/1.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-0 Las redes sociales se han convertido en el medio más utilizado tanto para marcas como para usuarios, pues la flexibilidad de interacción y el fácil acceso han permitido que estas lleguen a todos los rincones del planeta. Detrás de todo lo que se publica hay algo muy importante para tener en cuenta por toda persona o marca que desee hacer uso de las redes sociales como medio empresarial. Ese “algo” es la información y datos obtenidos de las interacciones, de ahí la importancia del análisis de dichos datos para definir o direccionar la estrategia de marketing digital.
+        p.mb-0 Las redes sociales se han convertido en el medio más utilizado tanto para marcas como para usuarios, pues la flexibilidad de interacción y el fácil acceso han permitido que estas lleguen a todos los rincones del planeta. Detrás de todo lo que se publica hay algo muy importante para tener en cuenta por toda persona o marca que desee hacer uso de las redes sociales como medio empresarial. Ese “algo” es la información y datos obtenidos de las interacciones, de ahí la importancia del análisis de dichos datos para definir o direccionar la estrategia de #[em marketing] digital.
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 De esta manera, se habla de la analítica digital, la cual Cibrián (2019) define como: “Disciplina en la que se miden y analizan los datos generados por los usuarios para transformarlos en información relevante, la cual se presentará en informes útiles para que los destinatarios de estos puedan tomar decisiones y mejorar el negocio.
+            h2.mb-0 De esta manera, se habla de la analítica digital, la cual Cibrián (2019) define como: “Disciplina en la que se miden y analizan los datos generados por los usuarios para transformarlos en información relevante, la cual se presentará en informes útiles para que los destinatarios de estos puedan tomar decisiones y mejorar el negocio.”
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            span.mb-0 (P.19).
+            span.mb-0 (p. 19).
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -33,7 +33,7 @@
               figure
                 img(data-aos="fade-down-right", src="@/assets/curso/tema1/2.png", alt="")
             .col-lg-9
-              p.mb-0 Entendiendo la importancia de la analítica digital es cómo se reconoce la facilidad que brinda el marketing digital para medir todo lo que se considere necesario y con miras a direccionar las acciones de mejora en una determinada estrategia digital. Para realizar esta medición en la web existe una gran cantidad de herramientas gratuitas y de acuerdo con los criterios y métricas elegidas.
+              p.mb-0 Entendiendo la importancia de la analítica digital es cómo se reconoce la facilidad que brinda el #[em marketing] digital para medir todo lo que se considere necesario y con miras a direccionar las acciones de mejora en una determinada estrategia digital. Para realizar esta medición en la web existe una gran cantidad de herramientas gratuitas y de acuerdo con los criterios y métricas elegidas.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

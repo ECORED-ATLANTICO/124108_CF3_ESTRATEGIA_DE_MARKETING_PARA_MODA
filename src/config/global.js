@@ -236,8 +236,7 @@ export default {
     {
       referencia:
         'Mejía, J. (2020). <em>Indicadores de redes sociales: principales KPI y métricas de social media.</em>',
-      link:
-        'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
+      link: '',
     },
     {
       referencia:

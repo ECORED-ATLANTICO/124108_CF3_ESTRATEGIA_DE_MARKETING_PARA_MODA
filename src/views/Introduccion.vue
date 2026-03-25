@@ -63,9 +63,27 @@
           .row(titulo="¿Cómo finalizar este componente de formación?").justify-content-center.align-items-center
             .col-12
               p.mb-0 Para culminarlo debe recorrer la ruta de aprendizaje que se ha creado a partir de contenido temático y las actividades de aprendizaje.
+          .row(titulo="Recuerde").justify-content-center.align-items-center
+            .col-12
+              ul.lista-ul.ms-3.custom-list
+                li.d-flex
+                  i.lista-ul__vineta
+                  span Mantener una disciplina de estudio de acuerdo con los tiempos que tiene para este componente de formación.
+              ul.lista-ul.ms-3.custom-list
+                li.d-flex
+                  i.lista-ul__vineta
+                  span Participar de los espacios de interacción del programa. Uno de ellos son los foros.
+              ul.lista-ul.ms-3.custom-list
+                li.d-flex
+                  i.lista-ul__vineta
+                  span Si tienes duda con respecto a su proceso, no dude en escribirle un correo a su instructor.
+              ul.lista-ul.ms-3.custom-list
+                li.d-flex
+                  i.lista-ul__vineta
+                  span ¿Qué esperar para iniciar? Revisar la siguiente página web y su contenido: https://www.rdstation.com/es/redes-sociales/
           
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
-      p.mb-0 Ahora que se han identificado algunas rutas de aprendizaje, se invita a iniciar desde la siguiente pregunta: ¿cuál es la importancia del uso de la analítica en el contexto del marketing digital para el sistema de moda?
+      p.mb-0 Ahora que se han identificado algunas rutas de aprendizaje, se invita a iniciar desde la siguiente pregunta: ¿cuál es la importancia del uso de la analítica en el contexto del #[em marketing] digital para el sistema de moda?
 </template>
 
 <script>
