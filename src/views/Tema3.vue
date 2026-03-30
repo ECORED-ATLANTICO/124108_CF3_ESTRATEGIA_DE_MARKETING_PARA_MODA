@@ -72,7 +72,7 @@
         p.mb-3 Haciendo énfasis en la importancia de poner en contexto los datos encontrados y para realizar un mejor análisis de la información obtenida, se necesita entender el mercado en el que se desenvuelve el negocio, segmentar el público y poner especial cuidado en los KPI utilizados según los objetivos establecidos, puesto que en un mar de datos es posible perder el norte, si no se ha definido qué se desea y se debe analizar.
 
     .p-3.bg-acento-botones-a20.rounded-3.z-2.mb-4.mb-lg-5
-      p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de marketing aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.
+      p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de #[em marketing] aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10

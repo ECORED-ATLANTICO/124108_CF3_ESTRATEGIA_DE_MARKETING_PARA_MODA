@@ -20,7 +20,7 @@ export default {
       tema: 'Verificación conceptual de analítica digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Verificar la comprensión del aprendiz sobre la analítica digital aplicada a redes sociales mediante la resolución de preguntas de verdadero o falso, a partir de la identificación de conceptos clave desarrollados en el componente formativo relacionados con medición, análisis de datos, definición de objetivos, indicadores de desempeño y procesos de medición utilizados en estrategias de <em>marketing</em> digital.',
+        '<b>Objetivo:</b> verificar la comprensión del aprendiz sobre la analítica digital aplicada a redes sociales mediante la resolución de preguntas de verdadero o falso, a partir de la identificación de conceptos clave desarrollados en el componente formativo relacionados con medición, análisis de datos, definición de objetivos, indicadores de desempeño y procesos de medición utilizados en estrategias de <em>marketing</em> digital.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -281,7 +281,7 @@ export default {
         {
           id: 12,
           texto:
-            'Los KPI permiten medir desempeño de estrategias dentro marketing digital.',
+            'Los KPI permiten medir desempeño de estrategias dentro <em>marketing</em> digital.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
