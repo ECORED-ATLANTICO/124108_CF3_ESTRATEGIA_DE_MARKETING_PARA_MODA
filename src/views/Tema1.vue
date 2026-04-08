@@ -92,7 +92,7 @@
       .col-lg-8
         .p-4.bg-acento-contenido-a5.mb-3.rounded-3
           p.mb-0 Entre los beneficios del uso de datos se encuentra mayor cercanía con la realidad para generar oportunidades de incrementar ingresos, entendimiento de los hábitos del consumidor para definir una estrategia que permita llegar de manera eficaz a este público, además de optimizar recursos para lo que verdaderamente se debe invertir dinero y tiempo, a partir de los resultados obtenidos.
-        p.mb-0 De esta forma, se define que para pasar de los datos obtenidos a la acción se debe tener en cuenta la conexión de los siguientes factores que, al finalizar su ciclo, vuelven a tomar acción en el momento que se necesiten de nuevo. En el siguiente recurso de aprendizaje se describe el proceso para pasar los datos a la acción desde el pensamiento de Cibrián (2019, p. 22); pero antes de ir al recurso, ¿para que utilizarían los datos obtenidos de las redes sociales?
+        p.mb-0 De esta forma, se define que para pasar de los datos obtenidos a la acción se debe tener en cuenta la conexión de los siguientes factores que, al finalizar su ciclo, vuelven a tomar acción en el momento que se necesiten de nuevo. En el siguiente recurso de aprendizaje se describe el proceso para pasar los datos a la acción desde el pensamiento de Cibrián (2019, p. 22); pero antes de ir al recurso, ¿para qué utilizarían los datos obtenidos de las redes sociales?
 
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -144,7 +144,7 @@
                 figure
                   img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/14.png", alt="")
               .col-sm-9
-                h5 Informe relevante
+                h5 Información relevante
                 p Se debe poner en contexto los datos encontrados, para determinar causas del porqué y para qué interactúan los usuarios con una determinada red social o web. Esto permite observar en qué punto se debe poner el foco de atención.
 
           .tarjeta.bg-acento-botones-a20.p-3(x="87%" y="90%" numero="6")

@@ -44,13 +44,13 @@
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 Sin medición, no hay información, sin información no podrás tomar buenas decisiones y si no actúas no mejorarás tu negocio (p. 57)
+            h2.mb-0 Sin medición, no hay información, sin información no podrás tomar buenas decisiones y si no actúas no mejorarás tu negocio (p. 57).
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            span.mb-0 Cibrián (2019)
+            span.mb-0 Cibrián (2019).
 
     .cajon.color-acento-contenido.p-4
-      p.mb-0 Por consiguiente, esta es la forma más adecuada para encontrar la mejora de los procesos o si es necesario un cambio total en la dinámica a través de ¿qué se medirá en el contexto laboral?, ¿para qué medirá?, dar respuesta a esto le dará sentido a los datos.
+      p.mb-0 Por consiguiente, esta es la forma más adecuada para encontrar la mejora de los procesos o si es necesario un cambio total en la dinámica a través de ¿qué se medirá en el contexto laboral?, ¿para qué medirá?, dar respuesta a esto les dará sentido a los datos.
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -202,10 +202,8 @@
                 li.d-flex
                   i.lista-ul__vineta
                   span #[strong Porcentaje de engagement]: se refiere al porcentaje de interacciones realizadas por los usuarios en las redes sociales, de acuerdo con estas es como se definen los tipos de interacciones a estudiar.
-          .row(titulo="KPI de gestión y comunidad").justify-content-center.align-items-center
+          .row(titulo="KPI de conversión y resultado").justify-content-center.align-items-center
             .col-12
-              p Porcentaje de engagement: se refiere al porcentaje de interacciones realizadas por los usuarios en las redes sociales, de acuerdo con estas es como se definen los tipos de interacciones a estudiar.
-              h5 KPI de conversión y resultado
               p Esta categoría está compuesta por cinco indicadores.
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
@@ -216,10 +214,10 @@
                   span #[strong Porcentaje de conversión]: es el porcentaje de visitantes en un sitio web que cumplen con el objetivo y permite identificar cuántos son direccionados desde una red social.
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CPL (#[em Cost per Lead])]: se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media #[em marketing].
+                  span #[strong CPL (#[em Cost per Lead])]: se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media #[em Marketing].
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CPA (#[em Cost Per Acquisition])]: se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media #[em marketing].
+                  span #[strong CPA (#[em Cost Per Acquisition])]: se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media #[em Marketing].
                 li.d-flex
                   i.lista-ul__vineta
                   span #[strong ROI (#[em Return Of Investment])]: se mide por el retorno de la inversión, lo cual determina si una campaña en redes sociales está siendo efectiva.

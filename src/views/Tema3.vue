@@ -48,7 +48,7 @@
           span Titulo de la figura
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.png", alt="pendiente por accesibilidad")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.png", alt="pendiente por accesibilidad")
-        figcaption #[strong Nota.] SENA, 2026
+        figcaption Nota. SENA, 2026
 
     .bg-azul-claro.p-2.rounded-3
       .row.justify-content-center.align-items-center
@@ -57,11 +57,11 @@
             img(data-aos="fade-down-right", src="@/assets/curso/tema3/6.svg", alt="")
         .col-lg-9
           .p-4.p-lg-0
-            p.mb-0 Al aterrizar los datos con el contexto es cómo se encuentra información relevante también llamada insights, que permitirán una toma de decisiones concienzuda y entendida según la realidad. Es importante comprender que el contexto les da sentido a las conclusiones: ¿en qué contexto se hará la intervención?, ¿quiénes están en ese contexto?, ¿qué les gusta?… Se sugiere no pensar tanto y atreverse a reconocer el contexto.
+            p.mb-0 Al aterrizar los datos con el contexto es cómo se encuentra información relevante también llamada #[em insights], que permitirán una toma de decisiones concienzuda y entendida según la realidad. Es importante comprender que el contexto les da sentido a las conclusiones: ¿en qué contexto se hará la intervención?, ¿quiénes están en ese contexto?, ¿qué les gusta? etc. Se sugiere no pensar tanto y atreverse a reconocer el contexto.
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.1 ¿Cómo analizar?
+      h2 3.1 ¿Qué se debe medir?
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -117,7 +117,7 @@
         p.mb-0 Aunque en la cotidianidad las comparaciones nunca son buenas, en el #[em marketing] digital pueden ser muy provechosas para poner los pies en la tierra y dirigirse por el camino correcto, Con respecto a esto, según Maciá y Santoja (2017) se debe hacer uso de la matriz DOFA (debilidades, oportunidades, fortalezas y amenazas) para observar estos aspectos con relación a otra marca, igualmente se deben plantear interrogantes en torno a las redes sociales utilizadas, los contenidos, la periodicidad de publicación, las interacciones de los usuarios, cantidad de seguidores, tono que usan para comunicarse, publicaciones populares, es decir, toda la información que se puede obtener al revisar la red social externamente.
 
     .p-3.bg-acento-botones-a20.rounded-3.z-2.mb-4.mb-lg-5
-      p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de #[em marketing] aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.
+      p.mb-0 Estimado aprendiz, ahora se deben contestar estas preguntas: ¿ha hecho una matriz DOFA?, ¿cómo la ha hecho? Es necesario compartir sus reflexiones en los espacios de comunicación del curso. Lo leemos.
     
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -132,10 +132,10 @@
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 Para este proceso, se pueden utilizar diferentes alternativas, pero existen tres que pueden ser de gran ayuda. Ellos son: cuestionarios, #[em listening] y #[em testing].
+            h2.mb-0 Para este proceso, se pueden utilizar diferentes alternativas, pero existen tres que pueden ser de gran ayuda. Ellos son: cuestionarios, #[em listening] y #[em testing]
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            span.mb-0 Cibrián (2019)
+            span.mb-0 Cibrián (2019).
 
     .row.justify-content-center
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
@@ -185,7 +185,7 @@
               img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/17.png", alt="")
           .col-lg-7
             .p-5.bg-acento-contenido-a5
-              p.mb-0 Por consiguiente, el consumidor de hoy en día es un ser preparado en información y “dateado” a partir de la experiencia de otros, por ello, hay una tarea bastante grande en conocer el comportamiento de este y solo es posible al construir un buyer persona. 
+              p.mb-0 Por consiguiente, el consumidor de hoy en día es un ser preparado en información y “dateado” a partir de la experiencia de otros, por ello, hay una tarea bastante grande en conocer el comportamiento de este y solo es posible al construir un #[em buyer persona]. 
         .p-4.bg-acento-botones-a5
           .row.justify-content-center.align-items-center
             .d-none.d-xl-block.col-xl-1

@@ -76,7 +76,7 @@
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
                   i.lista-ul__vineta
-                  span Si tienes duda con respecto a su proceso, no dude en escribirle un correo a su instructor.
+                  span Si tiene duda con respecto a su proceso, no dude en escribirle un correo a su instructor.
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
                   i.lista-ul__vineta

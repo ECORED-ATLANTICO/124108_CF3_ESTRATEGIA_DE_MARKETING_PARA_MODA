@@ -87,7 +87,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: '¿Cómo analizar?',
+            titulo: '¿Qué se debe medir?',
             hash: 't_3_1',
           },
           {
@@ -174,17 +174,17 @@ export default {
         'Entender e interpretar datos del entorno digital para conocer resultados que permitan una acertada toma de decisiones.',
     },
     {
-      termino: 'Software',
+      termino: '<em>Software</em>',
       significado:
         'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
     },
     {
-      termino: 'Buyer persona',
+      termino: '<em>Buyer persona</em>',
       significado: 'Representación de un modelo de cliente.',
     },
     {
-      termino: 'KPI',
-      significado: 'Indicador Clave de Desempeño.',
+      termino: '<em>KPI (Key Performance Indicator)</em>',
+      significado: 'Indicador clave de desempeño.',
     },
     {
       termino: 'Medida',
@@ -247,7 +247,8 @@ export default {
     {
       referencia:
         'Redes Sociales. (2021). <em>Redes sociales: ¿qué son las redes sociales?</em>',
-      link: 'https://www.rdstation.com/es/redes-sociales/',
+      link:
+        'https://www.rdstation.com/es/redes%20sociales/#:~:text=Las%20redes%20sociales%20son%20estructuras,sin%20jerarqu%C3%ADa%20o%20l%C3%ADmites%20f%C3%ADsicos',
     },
   ],
   creditos: [

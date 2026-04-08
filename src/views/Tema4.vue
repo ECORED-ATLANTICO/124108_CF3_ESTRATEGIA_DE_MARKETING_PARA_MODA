@@ -54,7 +54,7 @@
                 .tarjeta-numerada.color-secundario.p-3.ps-5.h-100.bg-azul-claro
                   .tarjeta-numerada__numero
                     .h2 4
-                  p.mb-0.text-bold Automatización
+                  p.mb-0.text-bold Automatización.
 
     
     .cajon.color-terciario.p-4
@@ -79,7 +79,7 @@
               img(src="@/assets/curso/tema4/5.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
             h4.mb-3.text-center Cuadro de mando
-            p.mb-0 Recolección de datos asociados de los usuarios que interactúan con la red social o sitio web.
+            p.mb-0 Elementos de vital importancia donde se pueden agrupar los KPI necesarios dentro de un mismo contexto para identificar a simple vista si la marca o empresa va por buen o mal camino. En este se debe hacer uso de los gráficos necesarios para que visualmente cause la atención que se desea; la información para estos recursos se puede extraer de las fuentes de tráfico, objetivos y conclusiones.
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
@@ -88,7 +88,7 @@
               img(src="@/assets/curso/tema4/6.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
             h4.mb-3.text-center Panel de control
-            p.mb-0 Estudio y comprensión de los datos encontrados, segmentados de acuerdo con los criterios definidos.
+            p.mb-0 También conocido como #[em dashboard], se mantiene en constante actualización y permite dividir los objetivos de la marca o empresa en otros más pequeños, de acuerdo con las métricas necesarias para analizar su rendimiento. Para ello, hay una gran cantidad de herramientas que permiten automatizar este proceso con el fin de optimizar tiempo.
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
@@ -97,7 +97,7 @@
               img(src="@/assets/curso/tema4/7.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
             h4.mb-3.text-center Informe
-            p.mb-0 Acción de plasmar por medio de gráficos los resultados encontrados, con el fin de una toma de decisiones adecuada.
+            p.mb-0 Este se enfoca, sobre todo, en las conclusiones del proceso de análisis y debe estar redactado de una manera clara y entendible para el lector al que está dirigido, siempre y cuando maneje datos que se ajusten a la realidad y puede ser producido periódicamente según lo requiere la marca.
 
     .cajon.color-acento-botones.p-4
       p.mb-0 Al finalizar la lectura de este componente de formación, se espera que se haya recuperado información para desarrollar conocimientos, habilidades y actitudes que deberán aplicarse al contexto laboral, pues es allí en donde tiene sentido esta experiencia de aprendizaje.
