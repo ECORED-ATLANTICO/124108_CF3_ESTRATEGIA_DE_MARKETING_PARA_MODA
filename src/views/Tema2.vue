@@ -214,10 +214,10 @@
                   span #[strong Porcentaje de conversión]: es el porcentaje de visitantes en un sitio web que cumplen con el objetivo y permite identificar cuántos son direccionados desde una red social.
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CPL (#[em Cost per Lead])]: se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media #[em Marketing].
+                  span #[strong CPL (#[em Cost per Lead])]: se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de #[em Social Media Marketing].
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong CPA (#[em Cost Per Acquisition])]: se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media #[em Marketing].
+                  span #[strong CPA (#[em Cost Per Acquisition])]: se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de #[em Social Media Marketing].
                 li.d-flex
                   i.lista-ul__vineta
                   span #[strong ROI (#[em Return Of Investment])]: se mide por el retorno de la inversión, lo cual determina si una campaña en redes sociales está siendo efectiva.

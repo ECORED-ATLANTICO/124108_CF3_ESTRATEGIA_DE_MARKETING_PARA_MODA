@@ -20,7 +20,7 @@
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 De esta manera, se habla de la analítica digital, la cual Cibrián (2019) define como: “Disciplina en la que se miden y analizan los datos generados por los usuarios para transformarlos en información relevante, la cual se presentará en informes útiles para que los destinatarios de estos puedan tomar decisiones y mejorar el negocio.”
+            h2.mb-0 De esta manera, se habla de la analítica digital, la cual Cibrián (2019) define como: “Disciplina en la que se miden y analizan los datos generados por los usuarios para transformarlos en información relevante, la cual se presentará en informes útiles para qué los destinatarios de estos puedan tomar decisiones y mejorar el negocio.”
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             span.mb-0 (p. 19).

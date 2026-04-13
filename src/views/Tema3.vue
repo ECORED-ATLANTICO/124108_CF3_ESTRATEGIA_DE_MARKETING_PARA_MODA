@@ -45,10 +45,10 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span Titulo de la figura
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.png", alt="pendiente por accesibilidad")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.png", alt="pendiente por accesibilidad")
-        figcaption Nota. SENA, 2026
+          span Preguntas para el análisis de datos según Cibrián (2019)
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.png", alt="¿Por cuáles fuentes de tráfico han accedido? ¿Qué hacen una vez dentro de tu web o aplicación? ¿Por qué no compran tus clientes? ¿Qué están buscando en tu web o aplicación? ¿Por dónde está siendo desviada su atención? ¿Qué valor tienen estos usuarios para ti? ¿Quiénes son los usuarios que visitan tu web o aplicación?")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.png", alt="¿Por cuáles fuentes de tráfico han accedido? ¿Qué hacen una vez dentro de tu web o aplicación? ¿Por qué no compran tus clientes? ¿Qué están buscando en tu web o aplicación? ¿Por dónde está siendo desviada su atención? ¿Qué valor tienen estos usuarios para ti? ¿Quiénes son los usuarios que visitan tu web o aplicación?")
+        figcaption Nota. SENA (2026).
 
     .bg-azul-claro.p-2.rounded-3
       .row.justify-content-center.align-items-center
