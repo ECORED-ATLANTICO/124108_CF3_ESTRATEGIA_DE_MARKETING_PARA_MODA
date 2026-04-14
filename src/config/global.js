@@ -69,7 +69,7 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'KPI (Key Performance Indicator)',
+            titulo: 'KPI (<em>Key Performance Indicator</em>)',
             hash: 't_2_3',
           },
           {
@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA3_124108_DU.pdf',
       },
       {
         icono: 'fas fa-download',
