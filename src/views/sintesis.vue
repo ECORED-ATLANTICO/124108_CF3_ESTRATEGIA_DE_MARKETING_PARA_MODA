@@ -8,12 +8,12 @@
           img(src="@/assets/curso/1.png", alt="")
       .col-lg-8
         p El componente formativo Analítica digital para redes sociales ofrece al aprendiz una aproximación al análisis de datos en redes sociales dentro del #[em marketing] digital, a través del estudio de la analítica digital se presentan sus componentes principales: medición, análisis y reporting, los cuales permiten comprender cómo se recolecta, interpreta y comunica la información generada por los usuarios en entornos digitales. Asimismo, se aborda el uso de los datos obtenidos para apoyar la toma de decisiones estratégicas dentro de las acciones de #[em marketing] digital.
-        .p-4.bg-azul-claro.rounded-4
+        .p-4.bg-sintesis.rounded-4
           p.mb-0 El componente también desarrolla los procesos de medición y análisis aplicados a los contenidos en redes sociales, abordando la definición de objetivos y el uso de indicadores clave de desempeño. Se presentan distintos tipos de KPI relacionados con gestión, interacción, alcance y conversión, tales como engagement, CTR, CPL, CPA y ROI. Finalmente, se explica el proceso de medición que orienta la planificación, implementación y actualización de estrategias basadas en datos dentro del #[em marketing] digital.
     .row.justify-content-center
-      .col-lg-8.col-xl-6
+      .col-12
         figure.mb-4
-          img(src="@/assets/curso/sintesis.svg", alt="")
+          img(src="@/assets/curso/sintesis.svg", alt="La imagen muestra un mapa conceptual sobre la analítica digital para redes sociales, organizado en cuatro áreas principales: analítica de datos, contenidos y medición, análisis de información y estructuración de indicadores para reportes. En conjunto, estos elementos explican cómo medir, analizar e interpretar datos, incluyendo objetivos, KPI, competencia y comportamiento del consumidor para evaluar el desempeño y apoyar la toma de decisiones estratégicas.")
 
     .row.justify-content-center
       .col-auto
