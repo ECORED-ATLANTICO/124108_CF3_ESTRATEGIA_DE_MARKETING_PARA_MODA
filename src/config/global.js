@@ -231,7 +231,7 @@ export default {
     {
       referencia:
         'Maciá, F. y Santoja, M. (2017). <em>Marketing en redes sociales.</em> Anaya.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=13656',
+      link: '',
     },
     {
       referencia:
@@ -259,7 +259,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',

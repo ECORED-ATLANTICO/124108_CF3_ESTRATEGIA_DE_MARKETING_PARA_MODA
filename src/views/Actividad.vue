@@ -350,7 +350,7 @@ export default {
         {
           id: 15,
           texto:
-            'El porcentaje de engagement mide interacción de usuarios en redes sociales.',
+            'El porcentaje de <em>engagement</em> mide interacción de usuarios en redes sociales.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

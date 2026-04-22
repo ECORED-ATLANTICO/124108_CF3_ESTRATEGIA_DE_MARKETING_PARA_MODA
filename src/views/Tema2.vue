@@ -201,7 +201,7 @@
                   span #[strong Usuarios alcanzados promedio por publicación]: los usuarios alcanzados por cada publicación realizada es una información que solo el administrador de la red social puede visualizar.
                 li.d-flex
                   i.lista-ul__vineta
-                  span #[strong Porcentaje de engagement]: se refiere al porcentaje de interacciones realizadas por los usuarios en las redes sociales, de acuerdo con estas es como se definen los tipos de interacciones a estudiar.
+                  span #[strong Porcentaje de #[em engagement]]: se refiere al porcentaje de interacciones realizadas por los usuarios en las redes sociales, de acuerdo con estas es como se definen los tipos de interacciones a estudiar.
           .row(titulo="KPI de conversión y resultado").justify-content-center.align-items-center
             .col-12
               p Esta categoría está compuesta por cinco indicadores.

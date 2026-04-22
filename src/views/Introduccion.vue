@@ -80,7 +80,10 @@
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
                   i.lista-ul__vineta
-                  span ¿Qué esperar para iniciar? Revisar la siguiente página web y su contenido: https://www.rdstation.com/es/redes-sociales/
+                  p 
+                    span.d-block.mb-3 ¿Qué esperar para iniciar? Revisar la siguiente página web y su contenido: 
+                    a(href="https://www.rdstation.com/es/redes-sociales/" target="_blank")
+                      span https://www.rdstation.com/es/redes-sociales/
           
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
       p.mb-0 Ahora que se han identificado algunas rutas de aprendizaje, se invita a iniciar desde la siguiente pregunta: ¿cuál es la importancia del uso de la analítica en el contexto del #[em marketing] digital para el sistema de moda?
