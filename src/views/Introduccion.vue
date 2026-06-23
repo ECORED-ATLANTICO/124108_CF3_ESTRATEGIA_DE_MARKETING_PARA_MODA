@@ -51,7 +51,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-medio")
           .row(titulo="¿Cómo iniciar este proceso de aprendizaje?").justify-content-center.align-items-center
             .col-12
-              p.mb-0 Para comenzar, es importante que usted comprenda que el objeto de aprendizaje está relacionado con: analítica de datos para redes sociales, contenidos, medición y análisis, análisis de información y estructuración e interpretación de indicadores para la preparación de reportes. ¿Cómo aportan ellos en su formación? Adelante con la experiencia para encontrar una respuesta.
+              p.mb-0 Para comenzar, es importante que usted comprenda que el objeto de aprendizaje está relacionado con analítica de datos para redes sociales, contenidos, medición y análisis, análisis de información y estructuración e interpretación de indicadores para la preparación de reportes. ¿Cómo aportan ellos en su formación? Adelante con la experiencia para encontrar una respuesta.
 
           .row(titulo="¿Qué elementos tengo para aprender?").justify-content-center.align-items-center
             .col-12
@@ -72,7 +72,7 @@
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
                   i.lista-ul__vineta
-                  span Participar de los espacios de interacción del programa. Uno de ellos son los foros.
+                  span Participar de los espacios de interacción del programa. Uno de ellos es los foros.
               ul.lista-ul.ms-3.custom-list
                 li.d-flex
                   i.lista-ul__vineta
@@ -82,7 +82,7 @@
                   i.lista-ul__vineta
                   p 
                     span.d-block.mb-3 ¿Qué esperar para iniciar? Revisar la siguiente página web y su contenido: 
-                    a(href="https://www.rdstation.com/es/redes-sociales/" target="_blank")
+                    a(href="https://www.rdstation.com/es/redes%20sociales/" target="_blank")
                       span https://www.rdstation.com/es/redes-sociales/
           
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5

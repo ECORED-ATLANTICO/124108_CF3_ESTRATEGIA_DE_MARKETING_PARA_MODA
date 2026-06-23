@@ -33,7 +33,7 @@
               figure
                 img(data-aos="fade-down-right", src="@/assets/curso/tema1/2.png", alt="")
             .col-lg-9
-              p.mb-0 Entendiendo la importancia de la analítica digital es cómo se reconoce la facilidad que brinda el #[em marketing] digital para medir todo lo que se considere necesario y con miras a direccionar las acciones de mejora en una determinada estrategia digital. Para realizar esta medición en la web existe una gran cantidad de herramientas gratuitas y de acuerdo con los criterios y métricas elegidas.
+              p.mb-0 Entendiendo la importancia de la analítica digital es como se reconoce la facilidad que brinda el #[em marketing] digital para medir todo lo que se considere necesario y con miras a direccionar las acciones de mejora en una determinada estrategia digital. Para realizar esta medición en la web existe una gran cantidad de herramientas gratuitas y de acuerdo con los criterios y métricas elegidas.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -92,7 +92,7 @@
       .col-lg-8
         .p-4.bg-acento-contenido-a5.mb-3.rounded-3
           p.mb-0 Entre los beneficios del uso de datos se encuentra mayor cercanía con la realidad para generar oportunidades de incrementar ingresos, entendimiento de los hábitos del consumidor para definir una estrategia que permita llegar de manera eficaz a este público, además de optimizar recursos para lo que verdaderamente se debe invertir dinero y tiempo, a partir de los resultados obtenidos.
-        p.mb-0 De esta forma, se define que para pasar de los datos obtenidos a la acción se debe tener en cuenta la conexión de los siguientes factores que, al finalizar su ciclo, vuelven a tomar acción en el momento que se necesiten de nuevo. En el siguiente recurso de aprendizaje se describe el proceso para pasar los datos a la acción desde el pensamiento de Cibrián (2019, p. 22); pero antes de ir al recurso, ¿para qué utilizarían los datos obtenidos de las redes sociales?
+        p.mb-0 De esta forma, se define que para pasar de los datos obtenidos a la acción, se debe tener en cuenta la conexión de los siguientes factores que, al finalizar su ciclo, vuelven a tomar acción en el momento que se necesiten de nuevo. En el siguiente recurso de aprendizaje se describe el proceso para pasar los datos a la acción desde el pensamiento de Cibrián (2019, p. 22); pero antes de ir al recurso, ¿para qué utilizarían los datos obtenidos de las redes sociales?
 
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -154,7 +154,7 @@
                   img.img-72.mb-4.mb-sm-0(src="@/assets/curso/tema1/15.png", alt="")
               .col-sm-9
                 h5 Recomendación
-                p De acuerdo con los resultados obtenidos se determinar qué aspectos deben cambiar o mejorar en el futuro, lo que se debe saber expresar a la empresa para una toma de decisiones acertada.
+                p De acuerdo con los resultados obtenidos se determina qué aspectos deben cambiar o mejorar en el futuro, lo que se debe saber expresar a la empresa para una toma de decisiones acertada.
 
 </template>
 

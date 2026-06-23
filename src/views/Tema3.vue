@@ -57,7 +57,7 @@
             img(data-aos="fade-down-right", src="@/assets/curso/tema3/6.svg", alt="")
         .col-lg-9
           .p-4.p-lg-0
-            p.mb-0 Al aterrizar los datos con el contexto es cómo se encuentra información relevante también llamada #[em insights], que permitirán una toma de decisiones concienzuda y entendida según la realidad. Es importante comprender que el contexto les da sentido a las conclusiones: ¿en qué contexto se hará la intervención?, ¿quiénes están en ese contexto?, ¿qué les gusta? etc. Se sugiere no pensar tanto y atreverse a reconocer el contexto.
+            p.mb-0 Al aterrizar los datos con el contexto es como se encuentra información relevante también llamada #[em insights], que permitirán una toma de decisiones concienzuda y entendida según la realidad. Es importante comprender que el contexto les da sentido a las conclusiones: ¿en qué contexto se hará la intervención?, ¿quiénes están en ese contexto?, ¿qué les gusta?, etc. Se sugiere no pensar tanto y atreverse a reconocer el contexto.
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

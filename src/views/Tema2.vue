@@ -13,7 +13,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/1.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-3 A partir del plan de #[em marketing] digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial.
+        p.mb-3 A partir del plan de #[em marketing] digital es como se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial.
         .p-3.bg-acento-botones-a20.mb-3.rounded-3
           p.mb-0 Al tener claro lo anterior, para llevar a cabo el proceso de medir se debe determinar qué medir y esto se define según los objetivos propuestos y los criterios establecidos para ello.
 
@@ -61,7 +61,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/5.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Tal como se ha indicado repetidamente, la medición depende de los objetivos establecidos. Para definirlos correctamente, se recomienda usar el método SMART (#[em Specific, Measurable, Achievable, Relevant y Time-bound]) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
+        p.mb-0 Tal como se ha comentado una o otra vez, la medición depende de los objetivos establecidos, y para entender como se definen dichos objetivos, se hace necesario el uso del método SMART (#[em Specific, Measurable, Achievable, Relevant y Time-bound]) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2.factores-slider
       .col-md-4.col-xl-2.mb-3.mb-xl-0
@@ -119,7 +119,7 @@
             .col-4
               figure
                 img.img-90(src="@/assets/curso/tema2/12.png", alt="")
-            h4 Macroinversiones
+            h4 Macroconversiones
           p.mb-0 Acciones que repercuten directamente en los resultados de la marca o empresa.
       .col-sm-6.col-lg-5.col-xl-4
         .p-4.bg-primario-p10.rounded-3
@@ -127,7 +127,7 @@
             .col-4
               figure
                 img.img-90(src="@/assets/curso/tema2/13.png", alt="")
-            h4 Microinversiones
+            h4 Microconversiones
           p.mb-0 Acciones que no generan repercusión en la marca o empresa, si indican que el usuario podría llevarlas a cabo.
 
     .row.justify-content-center.z-2
@@ -231,7 +231,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/18.png", alt="")
       .col-md-10.col-lg-8
-        p.mb-0 El proceso de medición es el conjunto de acciones que se debe seguir para determinar lo que se va a medir y la manera cómo se debe llevar a cabo para obtener resultados claros. Después de definir los objetivos y conocer los Indicadores Clave de Desempeño, se podrá establecer el proceso de medición a través de los siguientes pasos mencionados por Cibrián (2019, p. 53) así:
+        p.mb-0 El proceso de medición es el conjunto de acciones que se debe seguir para determinar lo que se va a medir y la manera como se debe llevar a cabo para obtener resultados claros. Después de definir los objetivos y conocer los indicadores clave de desempeño, se podrá establecer el proceso de medición a través de los siguientes pasos mencionados por Cibrián (2019, p. 53) así:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-xl-8.custom-tabs.custom-tabs--ancho

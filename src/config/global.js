@@ -258,7 +258,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -273,13 +273,13 @@ export default {
       autores: [
         {
           nombre: 'Maria Camila Álvarez',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
             'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
         },
         {
           nombre: 'Liliana Ceballos',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
             'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
         },
