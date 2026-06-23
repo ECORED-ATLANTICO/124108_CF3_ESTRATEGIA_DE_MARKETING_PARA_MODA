@@ -163,7 +163,7 @@
 
     h3.title-decorado.z-2 Tipos de KPI
 
-    p.mb-4 Según el consultor en #[em marketing] digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura.
+    p.mb-4 Según el consultor en #[em marketing] digital Juan Carlos Mejía Llano (2025) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura.
 
     .row.justify-content-center.align-items-center.z-2
       .col-10.col-sm-6.col-lg-5

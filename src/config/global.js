@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA3_124108_DU.pdf',
+        download: 'downloads/124108_CF03_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -199,56 +199,58 @@ export default {
   referencias: [
     {
       referencia:
-        'Cibrián, I. B. (2019). <em>Marketing digital. Mide, analiza y mejora.</em> ESIC.',
-    },
-    {
-      referencia:
-        'DANE. (s.f.). <em>Guía para diseño, construcción e interpretación de indicadores.</em> DANE.',
-    },
-    {
-      referencia:
-        'Galiana, P. (2018). <em>Qué es la analítica web, para qué sirve y principales herramientas.</em>',
+        'Bello, E. (2021, 18 de agosto). <em>Qué es la analítica web, para qué sirve y principales herramientas</em>. IEBS Business School.',
       link:
-        'https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad/',
+        'https://www.iebschool.com/hub/herramientas-analisis-web-analitica-usabilidad/',
     },
     {
       referencia:
-        'Gómez, S. e Instituto de Marketing Ágil. (22 de noviembre de 2017). <em>Qué es la analítica web y para qué sirve.</em> [Video]. YouTube.',
+        'Cibrián, I. B. (2019). <em>Marketing digital. Mide, analiza y mejora</em>. ESIC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Departamento Administrativo Nacional de Estadística. (s.f.). <em>Guía para diseño, construcción e interpretación de indicadores</em>. DANE.',
       link:
-        'https://www.youtube.com/watch?v=W1q_SyJPfdg&ab_channel=InstitutodeMarketingAgil',
+        'https://www.dane.gov.co/files/planificacion/fortalecimiento/cuadernillo/Guia_construccion_interpretacion_indicadores.pdf',
     },
     {
       referencia:
-        'GraciAds. (2021). <em>El comportamiento del consumidor en las redes sociales.</em>',
+        'Gómez, S., & Instituto de Marketing Ágil. (2017, 22 de noviembre). <em>Qué es la analítica web y para qué sirve</em> [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=W1q_SyJPfdg',
+    },
+    {
+      referencia:
+        'GraciAds Marketing. (2021, 11 de enero). <em>El comportamiento del consumidor en las redes sociales</em>. GraciAds.',
       link:
-        'https://graciads.com/comportamiento-del-consumidor-en-redes-sociales/#:~:text=Por%20lo%20general%2C%20los%20estudios,de%20marca%20como%20un%20bot',
+        'https://graciads.com/comportamiento-del-consumidor-en-redes-sociales/',
     },
     {
       referencia:
-        'IEBS Business School. (11 de septiembre de 2018). <em>Cómo definir e interpretar métricas y KPI en analítica web de IEBS.</em> [Webinar].',
+        'IEBS Digital School. (2018, 11 de septiembre). <em>Webinar: Cómo definir e interpretar métricas y KPIs en analítica web de IEBS</em> [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=-_8tNwzyCi8',
     },
     {
       referencia:
-        'Maciá, F. y Santoja, M. (2017). <em>Marketing en redes sociales.</em> Anaya.',
+        'Maciá, F. y Santoja, M. (2017). <em>Marketing en redes sociales</em>. Anaya.',
       link: '',
     },
     {
       referencia:
-        'Mejía, J. (2020). <em>Indicadores de redes sociales: principales KPI y métricas de social media.</em>',
-      link: '',
+        'Mejía Llano, J. C. (2025, 22 de octubre). <em>Indicadores de redes sociales: principales KPIs y métricas de social media</em>. Juan Carlos Mejía Llano.',
+      link:
+        'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
     },
     {
       referencia:
-        'Núñez, V. (2013). <em>Cómo hacer un informe de resultados en redes sociales.</em>',
+        'Núñez, V. (2013, 6 de agosto). <em>Cómo hacer un informe de resultados en redes sociales</em> [Plantillas]. Vilma Núñez.',
       link:
         'https://vilmanunez.com/como-hacer-un-informe-de-redes-sociales-incluye-plantillas/',
     },
     {
       referencia:
-        'Redes Sociales. (2021). <em>Redes sociales: ¿qué son las redes sociales?</em>',
-      link:
-        'https://www.rdstation.com/es/redes%20sociales/#:~:text=Las%20redes%20sociales%20son%20estructuras,sin%20jerarqu%C3%ADa%20o%20l%C3%ADmites%20f%C3%ADsicos',
+        'RD Station. (s.f.). <em>¿Qué son las redes sociales? Guía completa + ejemplos</em>.',
+      link: 'https://www.rdstation.com/es/redes%20sociales/',
     },
   ],
   creditos: [
