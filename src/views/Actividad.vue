@@ -20,476 +20,690 @@ export default {
       tema: 'Verificación conceptual de analítica digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> verificar la comprensión del aprendiz sobre la analítica digital aplicada a redes sociales mediante la resolución de preguntas de verdadero o falso, a partir de la identificación de conceptos clave desarrollados en el componente formativo relacionados con medición, análisis de datos, definición de objetivos, indicadores de desempeño y procesos de medición utilizados en estrategias de <em>marketing</em> digital.',
+        '<b>Objetivo:</b> verificar la comprensión del aprendiz sobre la analítica digital aplicada a redes sociales mediante la resolución de preguntas de selección múltiple, a partir de la identificación de conceptos clave desarrollados en el componente formativo relacionados con medición, análisis de datos, definición de objetivos, indicadores de desempeño y procesos de medición utilizados en estrategias de <em>marketing</em> digital.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
-          texto:
-            'La analítica digital analiza datos generados por usuarios en redes sociales.',
+          texto: '¿Qué finalidad tiene la analítica digital en redes sociales?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Transformar datos en información útil para tomar decisiones estratégicas.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Eliminar procesos de medición dentro del marketing digital actual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir completamente la investigación de mercados tradicional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Reducir la interacción entre usuarios y marcas digitales.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
-          texto:
-            'La analítica digital no requiere analizar información proveniente de redes sociales.',
+          texto: '¿Cuál es el primer componente de la analítica digital?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Reporting de resultados mediante gráficos especializados.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Medición de datos generados por usuarios digitales.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto:
+                'Implementación de campañas publicitarias en redes sociales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Diseño de estrategias comerciales para nuevos mercados.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 3,
-          texto:
-            'La medición consiste en recolectar datos de usuarios que interactúan en presenciales.',
+          texto: '¿Qué permite realizar el análisis de los datos obtenidos?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              text:
+                'Diseñar campañas sin utilizar información de los usuarios.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Eliminar indicadores utilizados para evaluar resultados digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Comprender información segmentada según criterios previamente establecidos.',
               esCorrecta: true,
             },
+            {
+              id: 'd',
+              texto:
+                'Sustituir completamente la medición dentro del marketing digital.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 4,
           texto:
-            'El análisis estudia datos encontrados según criterios definidos dentro estrategia digital.',
+            '¿Qué caracteriza principalmente el proceso de reporting digital?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'Reducir información utilizada para apoyar decisiones organizacionales.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Sustituir gráficos por interpretaciones intuitivas del analista digital.',
               esCorrecta: false,
             },
+            {
+              id: 'c',
+              texto:
+                'Eliminar evidencias sobre resultados obtenidos en redes sociales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Presentar resultados mediante gráficos para apoyar decisiones estratégicas.',
+              esCorrecta: true,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 5,
           texto:
-            'El reporting presenta resultados encontrados mediante gráficos para apoyar decisiones.',
+            '¿Qué beneficio ofrece utilizar datos provenientes de redes sociales?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Facilitar decisiones fundamentadas sobre comportamientos y oportunidades del mercado.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Eliminar análisis relacionados con hábitos del consumidor digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir procesos estratégicos mediante decisiones exclusivamente intuitivas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Reducir posibilidades de optimización en campañas digitales actuales.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 6,
           texto:
-            'El reporting consiste únicamente en recolectar datos de redes sociales.',
+            '¿Qué permiten identificar los datos analizados correctamente?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Procesos administrativos sin relación con estrategias digitales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Oportunidades de mejora para optimizar acciones de marketing digital.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto:
+                'Únicamente costos asociados al funcionamiento de redes sociales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Exclusivamente información financiera de las organizaciones participantes.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 7,
           texto:
-            'Los datos de interacción en redes sociales presenciales constituyen materia prima analítica digital.',
+            '¿Por qué resulta importante medir acciones en redes sociales?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Eliminar seguimiento realizado sobre campañas de comunicación digital.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Sustituir indicadores mediante apreciaciones subjetivas del administrador.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Obtener información objetiva para mejorar estrategias digitales continuamente.',
               esCorrecta: true,
             },
+            {
+              id: 'd',
+              texto:
+                'Reducir utilización de herramientas de analítica dentro organizaciones.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 8,
-          texto:
-            'Definir qué medir no depende de metas establecidas dentro estrategias digitales.',
+          texto: '¿Qué relación existe entre medición y toma de decisiones?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'La medición reemplaza completamente el análisis estratégico empresarial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'La medición elimina necesidad de interpretar resultados obtenidos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'La medición reduce importancia del comportamiento del consumidor digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'La medición proporciona evidencia para decidir acciones estratégicas acertadas.',
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 9,
           texto:
-            'El método SMART permite definir objetivos específicos, medibles, alcanzables, relevantes y temporales.',
+            '¿Qué propósito tiene interpretar hábitos del consumidor digital?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Comprender comportamientos para orientar estrategias de marketing efectivas.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Eliminar segmentación utilizada durante campañas digitales empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir investigación comercial mediante observaciones intuitivas permanentes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Reducir oportunidades de optimización en medios digitales actuales.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 10,
           texto:
-            'Las conversiones representan acciones realizadas por usuarios dentro redes sociales o sitios.',
+            '¿Qué resultado genera analizar correctamente datos obtenidos digitalmente?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'Disminuir precisión durante procesos estratégicos de comunicación digital.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Fortalecer decisiones mediante información confiable y oportunamente interpretada.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir completamente procesos analíticos desarrollados por especialistas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminar seguimiento realizado sobre resultados de campañas digitales.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 11,
           texto:
-            'Las macroconversiones no generan resultados para la marca o empresa.',
+            '¿Qué debe definirse antes de medir resultados en redes sociales?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'El presupuesto destinado a campañas publicitarias digitales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Los objetivos que orientarán el proceso de medición.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto: 'El número de seguidores de cada red social.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'El diseño gráfico de las publicaciones institucionales.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 12,
           texto:
-            'Los KPI permiten medir desempeño de estrategias dentro <em>marketing</em> digital.',
+            '¿Qué característica corresponde al método SMART para objetivos?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Establecer objetivos específicos, medibles y alcanzables.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Formular metas sin indicadores para facilitar la evaluación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir los indicadores por apreciaciones del administrador digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Definir objetivos únicamente según cantidad de seguidores obtenidos.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 13,
           texto:
-            'Los KPI no se utilizan para medir acciones dentro estrategias digitales.',
+            '¿Qué representan las macroconversiones dentro del marketing digital?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Interacciones sin impacto sobre resultados empresariales esperados.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Acciones que generan resultados relevantes para la organización.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto:
+                'Publicaciones realizadas periódicamente en diferentes redes sociales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Indicadores relacionados únicamente con el crecimiento de seguidores.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 14,
           texto:
-            'El tamaño de la comunidad mide cantidad de seguidores de red social.',
+            '¿Qué permiten evaluar los indicadores clave de desempeño KPI?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'El diseño gráfico utilizado durante campañas digitales institucionales.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'La calidad estética de las publicaciones realizadas diariamente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'El desempeño de objetivos y estrategias implementadas digitalmente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'El número total de plataformas utilizadas por la organización.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 15,
-          texto:
-            'El porcentaje de <em>engagement</em> mide interacción de usuarios en redes sociales.',
+          texto: '¿Qué mide el KPI tamaño de la comunidad digital?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'La cantidad de seguidores registrados en la red social.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'El número de campañas desarrolladas durante un semestre.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'La cantidad de clics realizados sobre enlaces publicados.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'El retorno económico obtenido por cada publicación realizada.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 16,
-          texto:
-            'CLR mide tasa de clics realizados en enlaces publicados en redes.',
+          texto: '¿Qué refleja el porcentaje de engagement en redes sociales?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'El costo promedio invertido por adquisición de clientes.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'El nivel de interacción generado por los usuarios.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto:
+                'El tiempo utilizado para publicar contenidos digitales estratégicos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'La cantidad de publicaciones realizadas durante un periodo determinado.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 17,
-          texto:
-            'CPL representa costo por adquisición de clientes en comercio electrónico.',
+          texto: '¿Qué expresa el indicador CTR en analítica digital?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
+              texto: 'El porcentaje de clics sobre enlaces publicados.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
+              texto: 'El costo promedio generado por cada nuevo cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'La cantidad de seguidores alcanzados mensualmente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'El retorno financiero obtenido mediante campañas digitales.',
+              esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 18,
-          texto:
-            'CPA representa costo por cada comprador obtenido mediante estrategia digital.',
+          texto: '¿Qué mide el indicador ROI dentro campañas digitales?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'La cantidad de publicaciones compartidas por los usuarios.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'El retorno de la inversión realizada en campañas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'El número de visitas recibidas por un sitio web.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La cantidad de seguidores obtenidos durante una campaña.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 19,
           texto:
-            'ROI mide retorno de inversión para evaluar campañas en redes sociales.',
+            '¿Qué propósito tiene establecer un proceso formal de medición?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Organizar acciones para obtener resultados medibles y comparables.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Sustituir indicadores mediante criterios subjetivos del administrador.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar la necesidad de actualizar planes de medición digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Reducir la importancia del análisis dentro del marketing digital.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 20,
-          texto:
-            'El proceso de medición elimina necesidad de actualizar estrategias digitales.',
+          texto: '¿Qué acción mantiene vigente un plan de medición digital?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Eliminar indicadores cuando aumentan los resultados organizacionales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Actualizar el plan según cambios del entorno digital.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto:
+                'Sustituir objetivos estratégicos por métricas de corto plazo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Medir únicamente el crecimiento de seguidores en redes sociales.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Analítica digital para redes sociales.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
       ],
-      mensaje_final_aprobado:
-        '¡Excelente! Lo felicito, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
+      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
       mensaje_final_reprobado:
-        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }
