@@ -99,7 +99,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              text:
+              texto:
                 'Diseñar campañas sin utilizar información de los usuarios.',
               esCorrecta: false,
             },

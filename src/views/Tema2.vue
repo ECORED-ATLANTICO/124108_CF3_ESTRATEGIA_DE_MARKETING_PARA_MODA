@@ -61,7 +61,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/5.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Tal como se ha comentado una o otra vez, la medición depende de los objetivos establecidos, y para entender como se definen dichos objetivos, se hace necesario el uso del método SMART (#[em Specific, Measurable, Achievable, Relevant y Time-bound]) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
+        p.mb-0 Tal como se ha comentado una y otra vez, la medición depende de los objetivos establecidos, y para entender cómo se definen dichos objetivos, se hace necesario el uso del método SMART (#[em Specific, Measurable, Achievable, Relevant y Time-bound]) lo que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y acotados en el tiempo. A continuación, sus cualidades.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2.factores-slider
       .col-md-4.col-xl-2.mb-3.mb-xl-0
